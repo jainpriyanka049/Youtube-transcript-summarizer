@@ -1,7 +1,4 @@
 
-
-![LOGO](https://github.com/19IT114/YouTube-Transcript-Summarizer/blob/master/youtube-transcript-summarizer-web-browser-extension/icon.png)
-
 ## Project Overview
 This project is an integration of web development and the very emerging technology, Machine Learning. This Project aims to provide summarized documentation of a video that are too long to be watched. Today education is more dependent on online sources rather than the offline source, and no one has much time to spent on lecture videos that are too long to watch. So, to resolve this, there should be a tool which can provide a summarization of the video and therefor save time.
 
@@ -16,10 +13,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-
-
-
-
 ## Features
 
 - Multiple Langauage Support (Hindi,English,Gujarati,Braille)
@@ -32,8 +25,6 @@ Please make sure to update tests as appropriate.
 ## Installation
 
 1. Clone the repository in your local machine.
-```
-git clone https://github.com/19IT114/YouTube-Transcript-Summarizer.git
 ```
 
 2. To run the API, you need to set up a **Virtual Environment**. Go into *youtube-transcript-summarizer-api* folder, open command prompt and paste the following command.
@@ -62,13 +53,4 @@ npm install
 ```
 npm start
 ```
-
-
-## Demo of the Project
-
-https://drive.google.com/file/d/1u5OVxgmmDYr7lzqwm5XKmbA7Dsp6WyCh/view?usp=sharing
-## Authors
-
-- [@Virag_Patel](https://www.github.com/19IT114)
-- [@Venis_Prajapati](https://www.github.com/venisprajapati)
 
